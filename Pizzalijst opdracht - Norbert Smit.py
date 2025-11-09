@@ -1,5 +1,4 @@
 #Opdracht 1: Maak een variabele met minimaal 5 toppings
-from selectors import SelectSelector
 
 Pizza_toppings = ['salami','ham','ananas','paprika','uitjes']
 
